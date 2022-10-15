@@ -84,7 +84,7 @@ if (number % 2 == 0)
 // Задача 8. Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1
 /*
 
-Console.Write ("Input a number: ");
+Console.Write ("Input a number from 1: ");
 int evenNumber = 2;
 int number = Convert.ToInt32(Console.ReadLine());
 
